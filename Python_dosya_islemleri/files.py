@@ -1,0 +1,5 @@
+file=open("newfile.txt","a",encoding='utf-8')
+file.write("\nEmrah Çetin")
+file.write("\nEmrah Çetin1")
+file.write("\nEmrah Çetin2")
+file.close()
